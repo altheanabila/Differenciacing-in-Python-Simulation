@@ -14,7 +14,7 @@ This time, I would like to do differencing for time series simulation in Python.
 
 3. Plotting a decomposition plot, just to make sure
 
-![https://github.com/altheanabila/Differenciacing-in-Python-Simulation/blob/main/pic7.png)
+![textimage](https://github.com/altheanabila/Differenciacing-in-Python-Simulation/blob/main/pic7.png)
 
 
 4. Display the plot after using lag 1 differencing, red box indicated we have successfully removed the trend
